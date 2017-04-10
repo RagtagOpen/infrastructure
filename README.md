@@ -16,7 +16,9 @@ Currently, Ragtag has an AWS account and a [Dokku](http://dokku.viewdocs.io/dokk
 
 ### Source control
 
-We run a [Ragtag GitHub](https://github.com/ragtagteam) organization. Some projects use their own GitLab accounts.
+We run two Ragtag GitHub organizations. [RagtagTeam](https://github.com/ragtagteam) has private repos (but we have to pay per team member). [RagtagOpen](https://github.com/ragtagopen) has only public repos, so it is free regardless of number of team members.
+
+Some projects use their own GitLab accounts.
 
 ### Deployment options
 
